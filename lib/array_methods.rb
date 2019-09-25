@@ -5,11 +5,12 @@ famous_singers = ["beyonce", "rihanna", "shakira", "kehlani"]
 end
 
 def using_sort(array)
-
+famous_singers.sort
+  =>  ["rihanna", "beyonce", "kehlani", "shakira"]
 end
 
 def using_reverse(array)
-
+famous_singers = ["kehlani", "shakira", "rihanna", "beyonce"]
 end
 
 def using_first(array)
