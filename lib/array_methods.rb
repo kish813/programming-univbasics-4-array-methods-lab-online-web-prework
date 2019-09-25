@@ -1,4 +1,6 @@
 def using_include(array, element)
+
+
 famous_singers.include? ("taylor swift") => true
  famous_singers.include? ("beyonce") => true
 end
